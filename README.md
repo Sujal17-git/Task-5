@@ -3,6 +3,7 @@ Task 5  AL &amp; ML Internship By Elevate Labs
 
 Software Requirement : Jupiter Notebook
 Tools : Pandas, Matplotlib, Seaborn, Sklearn
+Dataset Heart Disease Dataset
 
 1. Train a Decision Tree Classifier and visualize the tree
 A Decision Tree classifier was trained on the Heart Disease Dataset to predict the presence of heart disease. The trained tree was visualized to understand the decision-making process based on feature splits.
